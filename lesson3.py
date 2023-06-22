@@ -11,3 +11,6 @@ def s_calc():
 
 s_side_val, s_full_val = s_calc()
 print(f"Площадь боковой пов-ти - {s_side_val}; Полная площадь - {s_full_val}")
+
+
+#Привет тут произошли изменения
